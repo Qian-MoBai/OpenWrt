@@ -10,3 +10,7 @@
 	path = package/luci-app-argon-config
 	url = https://github.com/jerrykuku/luci-app-argon-config.git
 	branch = master
+[submodule "package/luci-app-poweroffdevice"]
+	path = package/luci-app-poweroffdevice
+	url = https://github.com/sirpdboy/luci-app-poweroffdevice.git
+	branch = js

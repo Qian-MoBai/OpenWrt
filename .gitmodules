@@ -1,0 +1,4 @@
+[submodule "package/luci-app-openclash"]
+	path = package/luci-app-openclash
+	url = git@github.com:vernesong/OpenClash.git
+	branch = master
